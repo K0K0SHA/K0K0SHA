@@ -1,13 +1,16 @@
 - 👋 Hi, I’m @K0K0SHA
 - 👀 I’m interested in ...
-Android, Linux, SELinux, ARM, Windows, x86, Robotics, Embedded Programming
+Hacking, Android, Linux, SELinux, ARM, Windows, x86, Robotics, Embedded Programming
 
 - 🌱 I’m currently learning ...
-C and Lua 
+C and Lua
+Kotlin
 Mathematics
+Linux
+
 
 - 💞️ I’m looking to collaborate on ...
-Any mobile app idea
+Any mobile app idea, or any exploit idea
 
 - 📫 How to reach me ...
 You may reach me by my email address
