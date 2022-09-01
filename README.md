@@ -60,5 +60,8 @@ Additionally, fully setting a theme could involve the optional installation of C
 ## fork bomb
 Unironically just a fork bomb. This thing essentially belongs to no one, but I certainly want it on my page here. It's just a Linux meme. Crashes your session without damage(hopefully), if you're meme enough to run it. 
 
+## stay_awake
+Aims to be a cross-platform script for keeping the screen awake using the terminal. Made mostly for practice and convenience.
+
 TODO:  
 -personal public hacking journal link
