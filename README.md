@@ -1,5 +1,5 @@
 ## Hello
-Nice to meet you. I'm just a sysadmin who got carried away with hacking. GitHub serves as a primary document+codebase for my public research projects. I doubt any of this will be seen by many people, besides glowie dragnets. I guess that's good, because you could easily crash any system just by cloning my repos. And most networks. In fact, you should probably go away. Most code I write is thus destructive in nature. 
+Nice to meet you. I'm just a sysadmin who got carried away with hacking. GitHub serves as a primary document+codebase for my public research projects. I doubt any of this will be seen by many people, besides glowie dragnets. I guess that's good, because you could easily crash any system just by cloning my repos. And most networks. In fact, you should probably go away. Most code I write is destructive in nature. 
 
 # My Repos
 My Repo Descriptions  
